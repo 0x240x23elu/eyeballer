@@ -1,6 +1,6 @@
 import os
 import random
-import sys
+import sys'
 import progressbar
 
 # Prevent Tkinter Dependency
